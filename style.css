@@ -256,13 +256,6 @@ html {
       background-image: url("teacher.png");
     }
   }
-
-  #contribute {
-    .course__title {
-      background-image: url("contribution.png");
-    }
-  }
-
   #booklet {
     .course__title {
       background-image: url("booklet.png");
