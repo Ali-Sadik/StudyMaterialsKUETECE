@@ -251,3 +251,53 @@ html {
           background-image: url("ece1109.jpg");
         }
       }
+      #eee1109 {
+        .course__title {
+          background-image: url("eee1109.jpg");
+        }
+      }
+      #math1109 {
+        .course__title {
+          background-image: url("math1109.jpg");
+        }
+      }
+      #hum1109 {
+        .course__title {
+          background-image: url("hum1109.jpg");
+        }
+      }
+      #hum1209 {
+        .course__title {
+          background-image: url("hum1109.jpg");
+        }
+      }
+      #ph1109{
+        .course__title{
+          background-image: url("ph1109.jpg");
+        }
+      }
+      #ece1205{
+        .course__title{
+          background-image: url("ece1205.jpg");
+        }
+      }
+      #ece1209{
+        .course__title{
+          background-image: url("ece1209.jpg");
+        }
+      }
+      #cse1209{
+        .course__title{
+          background-image: url("cse1209.jpg");
+        }
+      }
+      #math1209{
+        .course__title{
+          background-image: url("math1209.jpg");
+        }
+      }
+      #ch1209{
+        .course__title{
+          background-image: url("ch1209.jpg");
+        }
+      }
