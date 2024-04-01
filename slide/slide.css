@@ -199,7 +199,7 @@ html {
               transition: 0.25s;
 
               &:hover {
-                box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.374);
                 border: 1px solid rgba(255, 255, 255, 0.3);
               }
             }
@@ -251,3 +251,29 @@ html {
           background-image: url("ece1109.jpg");
         }
       }
+      #ph1109{
+        .course__title{
+          background-image: url("ph1109.jpg");
+        }
+      }
+      #ece1205{
+        .course__title{
+          background-image: url("ece1205.jpg");
+        }
+      }
+      #ece1209{
+        .course__title{
+          background-image: url("ece1209.jpg");
+        }
+      }
+      #cse1209{
+        .course__title{
+          background-image: url("cse1209.jpg");
+        }
+      }
+      #ch1209{
+        .course__title{
+          background-image: url("ch1209.jpg");
+        }
+      }
+      
