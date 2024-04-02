@@ -248,6 +248,37 @@
 
       #ece1110 {
         .course__title {
-          background-image: url("https://studymaterialskuetece002.files.wordpress.com/2024/02/ece-lab--1.jpg");
+          background-image: url("ece1109 (1).jpg");
         }
       }
+      #eee1110 {
+        .course__title {
+          background-image: url("eee1109.jpg");
+        }
+      }
+      #ph1110 {
+        .course__title {
+          background-image: url("ph1109.jpg");
+        }
+      }
+      #ece1210 {
+        .course__title {
+          background-image: url("ece1209.jpg");
+        }
+      }
+      #cse1210 {
+        .course__title {
+          background-image: url("cse1209.jpg");
+        }
+      }
+      #ch1210 {
+        .course__title {
+          background-image: url("ch1209.jpg");
+        }
+      }
+      #hum1210 {
+        .course__title {
+          background-image: url("hum1210.jpg");
+        }
+      }
+      
