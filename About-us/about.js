@@ -78,7 +78,7 @@ const teamData = [
     subtitle: "ECE 2K22",
   },
   {
-    imgSrc: "public/King.webp",
+    imgSrc: "public/king.webp",
     name: "Hamid Shahriar",
     title: "Junior web developer(QA)",
     subtitle: "ECE 2K22",
